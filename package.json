@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@devinikhiya/react-native-tesseractocr": "^0.1.10",
+    "@react-native-documents/picker": "^12.0.2",
     "@react-native-ml-kit/text-recognition": "^2.0.0",
     "@react-native/new-app-screen": "0.85.3",
     "react": "19.2.3",
@@ -19,6 +20,7 @@
     "react-native-image-picker": "^8.2.1",
     "react-native-nitro-modules": "^0.35.9",
     "react-native-nitro-ocr": "^0.1.0-beta.0",
+    "react-native-pdf-thumbnail": "^2.0.0",
     "react-native-safe-area-context": "^5.5.2"
   },
   "devDependencies": {
